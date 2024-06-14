@@ -1,7 +1,7 @@
 .container{
     display: flex;
     max-width: 1000px;
-    margin: 0 auto; 
+    margin: 40px auto; 
     /* For center */
 }
 
@@ -45,5 +45,6 @@
 }
 
 .form_control textarea{
+    padding-top: 12px;
     border-radius: 4px;
 }
